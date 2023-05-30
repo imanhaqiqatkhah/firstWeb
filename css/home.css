@@ -9,7 +9,7 @@ header nav {
     display: flex;
     justify-content: space-between;
     padding: 10px 15px;
-    font-size: 1.2em;
+    font-size: 2vw;
 }
 
 header nav .nav-right {
